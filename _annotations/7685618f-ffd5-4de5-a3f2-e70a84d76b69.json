@@ -1,0 +1,34 @@
+---
+canvas: "https://stescha28.github.io/annonatate2/img/derivatives/iiif/versuch/canvas/versuch-1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Silber und Bronze",
+            "purpose": "commenting",
+            "creator": {
+                "id": "SteScha28",
+                "name": "SteScha28"
+            },
+            "created": "2022-04-01T07:25:15.414Z",
+            "modified": "2022-04-01T07:25:17.900Z"
+        }
+    ],
+    "target": {
+        "source": "https://stescha28.github.io/annonatate2/img/derivatives/iiif/versuch/canvas/versuch-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"1602.8795776367188\" cy=\"445.9259796142578\" r=\"535.0823027706973\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://stescha28.github.io/annonatate2/img/derivatives/iiif/versuch/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7685618f-ffd5-4de5-a3f2-e70a84d76b69.json",
+    "motivation": "commenting"
+}
